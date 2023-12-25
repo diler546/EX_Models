@@ -1,0 +1,10 @@
+D:\Project\C#\EX_test2\EX_test2\bin\Debug\EX_test2.exe.config
+D:\Project\C#\EX_test2\EX_test2\bin\Debug\EX_test2.exe
+D:\Project\C#\EX_test2\EX_test2\bin\Debug\EX_test2.pdb
+D:\Project\C#\EX_test2\EX_test2\obj\Debug\EX_test2.csproj.AssemblyReference.cache
+D:\Project\C#\EX_test2\EX_test2\obj\Debug\EX_test2.Form1.resources
+D:\Project\C#\EX_test2\EX_test2\obj\Debug\EX_test2.Properties.Resources.resources
+D:\Project\C#\EX_test2\EX_test2\obj\Debug\EX_test2.csproj.GenerateResource.cache
+D:\Project\C#\EX_test2\EX_test2\obj\Debug\EX_test2.csproj.CoreCompileInputs.cache
+D:\Project\C#\EX_test2\EX_test2\obj\Debug\EX_test2.exe
+D:\Project\C#\EX_test2\EX_test2\obj\Debug\EX_test2.pdb
